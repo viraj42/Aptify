@@ -1,0 +1,319 @@
+[
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: The higher (A) / you (B) / go, (C) / cooler it is (D).",
+    "options": ["The higher", "you", "go,", "cooler it is"],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: He (A) / was (B) / appointed (C) / the principal of the school (D).",
+    "options": ["He was", "appointed", "the", "principal of the school"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: He (A) / can (B) / play (C) / piano very well (D).",
+    "options": ["He", "can", "play", "piano very well"],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: I (A) / like (B) / (C) / the blue color (D).",
+    "options": ["I", "like", "(No article)", "the blue color"],
+    "correctAnswer": 3
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: Wisdom (A) / of (B) / Solomon is famous (C).",
+    "options": ["Wisdom", "of", "Solomon is famous"],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: This (A) / is (B) / a (C) / worst mistake I have ever made (D).",
+    "options": ["This", "is", "a", "worst mistake I have ever made"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: He (A) / was (B) / in (C) / the prison for two years (D). (Context: He was a prisoner)",
+    "options": ["He was", "in", "the", "prison for two years"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: Gold (A) / of (B) / South Africa is exported to many countries (C).",
+    "options": ["Gold", "of", "South Africa is exported"],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: He (A) / is (B) / a (C) / LCD employee (D).",
+    "options": ["He", "is", "a", "LCD employee"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: Lion (A) / is (B) / the king of beasts (C). (Context: Referring to the species)",
+    "options": ["Lion", "is", "the king of beasts"],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the part of the sentence that contains a grammatical error: He (A) / has (B) / a little (C) / money, he cannot buy bread (D). (Context: Meaning virtually none)",
+    "options": ["He", "has", "a little", "money"],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the correct usage of articles in the following sentence: '_______ silver is a precious metal, but _______ silver used in this antique trophy is exceptionally pure.'",
+    "options": [
+      "The, the",
+      "No article, the",
+      "A, the",
+      "No article, no article"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Choose the most appropriate determinant: '_______ of the two candidates was able to solve the complex algorithmic challenge during the technical round.'",
+    "options": [
+      "Neither",
+      "None",
+      "Any",
+      "Every"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "The project was delayed because there was _______ cooperation between the development and testing teams.",
+    "options": [
+      "little",
+      "a little",
+      "the little",
+      "few"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the correct sentence regarding the use of 'the' with geographical features.",
+    "options": [
+      "The Mount Everest is the highest peak in the world.",
+      "Mount Everest is the highest peak in the world.",
+      "A Mount Everest is highest peak in the world.",
+      "The Mount Everest is highest peak in the world."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "We have _______ time left before the server maintenance begins, so let's finalize the documentation.",
+    "options": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Select the correct option: '_______ books I had were all destroyed in the fire.'",
+    "options": [
+      "The few",
+      "Few",
+      "A few",
+      "Many"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "_______ you say will be kept confidential by the HR department.",
+    "options": [
+      "Each",
+      "Whatever",
+      "Every",
+      "Any"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "He is _______ better programmer than his brother, though both are quite skilled.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "_______ milk in this packet is insufficient for the entire team's coffee.",
+    "options": [
+      "The",
+      "A",
+      "Any",
+      "Much"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the correct determinant: '_______ member of the committee was given a copy of the new policy.'",
+    "options": [
+      "All",
+      "Every",
+      "Some",
+      "Any"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "It was _______ unique opportunity for the interns to interact with the CTO.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Choose the correct sentence: '_______ richness of the soil in this region is well known.'",
+    "options": [
+      "A richness",
+      "The richness",
+      "An richness",
+      "Richness"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "_______ more you practice coding, _______ better you become at problem-solving.",
+    "options": [
+      "A, a",
+      "The, the",
+      "The, a",
+      "No article, the"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "He is _______ most industrious student I have ever mentored.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "very"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Select the correct option: 'I have _______ friends in this city, so I often feel lonely.'",
+    "options": [
+      "few",
+      "a few",
+      "the few",
+      "many"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "_______ of the information provided in the brochure was outdated.",
+    "options": [
+      "Many",
+      "Few",
+      "Much",
+      "Several"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Identify the correct article usage: 'He is _______ honor to his country and _______ example to all youth.'",
+    "options": [
+      "a, a",
+      "an, an",
+      "the, the",
+      "an, a"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "_______ students who attended the workshop were given certificates.",
+    "options": [
+      "All",
+      "Each",
+      "Every",
+      "Any"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "Choose the correct determinant: 'The manager gave _______ instructions to the team before leaving.'",
+    "options": [
+      "little",
+      "much",
+      "a few",
+      "any"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "topicId": "69da51dcd1b008228f1638ea",
+    "difficulty": "medium",
+    "text": "_______ man is mortal, but _______ name of a great man lives forever.",
+    "options": [
+      "A, the",
+      "No article, the",
+      "The, the",
+      "No article, no article"
+    ],
+    "correctAnswer": 1
+  }
+]
